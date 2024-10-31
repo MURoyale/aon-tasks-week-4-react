@@ -1,0 +1,22 @@
+#mainImg {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  width: 100%;
+}
+
+#about{
+    color: #0000FF;
+}
+footer {
+  display: flex;
+  justify-content: center;
+  margin-top: 150px;
+  margin-bottom: 50px;
+}
+footer p {
+    color: #666666;
+}
+footer span {
+    color: #0000FF;
+}
